@@ -14,7 +14,7 @@ About
 </h2>
 <p align='center'>
 Online education enables the teacher and the students to set their own learning pace, and there's the 
-added flexibility of setting a schedule that fits everyone's agenda. As a result, using an online educational platform allows for a better balance fo work ands studies, so there's no need to give anything up. 
+added flexibility of setting a schedule that fits everyone's agenda. As a result, using an online educational platform allows for a better balance fo work ands studies, so there's no need to give anything up.(Main Code File is in Private))
 </p>
 
 -----------------------------------
